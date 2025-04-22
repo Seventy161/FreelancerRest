@@ -1,6 +1,7 @@
-package ru.netology.services;
+//package ru.netology.services;
 
 import org.junit.jupiter.api.Test;
+import ru.netology.services.FreelancerService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
